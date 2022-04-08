@@ -1,2 +1,4 @@
-# ML_Thesis
-This research is centered around the prediction of Diabetes Mellitus, also known as type 2 diabetes using various statistical analysis and Machine Learning techniques. 
+# Diabetes Prediction Using Machine Learning Algorithm
+Authors: Clement T. Okolo
+# Abstract
+Diabetes mellitus, also known as type-2 diabetes accounts for the majority of the diabetes cases in the world. This type of diabetes occurs when the body does not produce enough or respond normally to insulin causing the blood glucose level to get high, leading inevitably to other health conditions such as heart disease, kidney disease, etc. The aim of this research paper is to assist medical professionals in the early detection and efficient diagnosis of Type 2 diabetes. We aim to apply several supervised machine learning techniques to develop a machine model to predict diabetes with a low error rate based on eight clinical measurements from five National Health and Nutrition Examination Survey (NHNES) datasets. With this work, we intend to improve the process of diagnosing Type 2 diabetes with machine learning and encourage further research into diabetes prediction using machine learning. (Abstract)
